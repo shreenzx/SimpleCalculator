@@ -1,0 +1,17 @@
+.main{
+    border: 3px dotted black;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    height: 360px;
+}
+#n1{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+body{
+    background: linear-gradient(pink,rgb(98, 187, 254),rgb(250, 246, 119)100%);
+    
+    
+}
